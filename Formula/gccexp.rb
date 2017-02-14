@@ -1,4 +1,4 @@
-class GccExp < Formula
+class Gccexp < Formula
   def arch
     if MacOS.prefer_64_bit?
       "x86_64"
