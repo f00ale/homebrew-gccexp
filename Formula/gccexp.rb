@@ -21,7 +21,7 @@ class GccExp < Formula
   stable do
     url "http://nl.mirror.babylon.network/gcc/snapshots/7-20170212/gcc-7-20170212.tar.bz2"
     mirror "http://nl.mirror.babylon.network/gcc/snapshots/7-20170212/gcc-7-20170212.tar.bz2"
-    sha512 "3f8d7fdb5bcc82f57a3d4d8ee037bc421d25699abad7eb0e76b8a12f4fe31bf89c17a790a99cc95113374d227faf4a64a987762bddd4e0eb65739d90ca5f5ed4"
+    sha256 "80ee6a0982ba6547d9ea809850142c513f407a0b8efe540e7de23b9ec45e2aa8"
   end
 
   #remove a language options
