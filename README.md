@@ -5,4 +5,6 @@ Based on gcc.rb from official homebrew-core
 
 Not for production use.
 
+usage:
+brew install f00ale/gccexp/gccexp
 
