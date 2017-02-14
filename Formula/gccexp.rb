@@ -24,6 +24,10 @@ class Gccexp < Formula
     sha256 "80ee6a0982ba6547d9ea809850142c513f407a0b8efe540e7de23b9ec45e2aa8"
   end
 
+  def version_suffix
+    7
+  end
+
   #remove a language options
   option "with-nls", "Build with native language support (localization)"
 
